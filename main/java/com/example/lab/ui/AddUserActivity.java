@@ -10,6 +10,7 @@ import android.widget.EditText;
 
 import com.example.lab6_1.R;
 
+@AndroidEntryPoint
 public class AddUserActivity extends AppCompatActivity {
 
     @Override

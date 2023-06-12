@@ -20,6 +20,7 @@ import com.google.android.material.floatingactionbutton.FloatingActionButton;
 
 import java.util.ArrayList;
 
+@AndroidEntryPoint
 public class MainActivity extends AppCompatActivity {
     private UserAdapter adapter;
     private UserListViewModel viewModel;
