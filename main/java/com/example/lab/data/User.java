@@ -1,4 +1,4 @@
-package com.example.lab6_1;
+package com.example.lab6_1.data;
 
 public class User {
     private String name;
